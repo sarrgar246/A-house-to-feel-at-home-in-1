@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mov6ayzroig9t"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mov6ayzroig9t">
+    <organization identifier="eXe-mov6ayzroig9t" structure="hierarchical">
+      <title>A house to feel at home in</title>
+      <item identifier="ITEM-page-mov5r9o2-mk8nuddxg" identifierref="RES-page-mov5r9o2-mk8nuddxg" isvisible="true">
+        <title>1.1. Presentación y descripción del proyecto.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9o6-3qkcu3c8b" identifierref="RES-page-mov5r9o6-3qkcu3c8b" isvisible="true">
+        <title>1.2. Presentación y descripción del proyecto.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9o7-c91290sb4" identifierref="RES-page-mov5r9o7-c91290sb4" isvisible="true">
+        <title>1.3. Presentación y descripción del proyecto.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9o8-r10s7bbxp" identifierref="RES-page-mov5r9o8-r10s7bbxp" isvisible="true">
+        <title>2. Protección de datos personales y garantías de derechos digitales</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9o9-dnp0j3os1" identifierref="RES-page-mov5r9o9-dnp0j3os1" isvisible="true">
+        <title>3. Descripción del proyecto final</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9ob-4580fcr80" identifierref="RES-page-mov5r9ob-4580fcr80" isvisible="true">
+        <title>4. Curación de contenidos para el profesorado (Symbaloo) y para el alumnado (Padlet)</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9od-6ngp72392" identifierref="RES-page-mov5r9od-6ngp72392" isvisible="true">
+        <title>5. Línea temporal o mapa mental</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9of-vjg2s0g58" identifierref="RES-page-mov5r9of-vjg2s0g58" isvisible="true">
+        <title>6. Criterios de evaluación</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9oh-57x6y7yen" identifierref="RES-page-mov5r9oh-57x6y7yen" isvisible="true">
+        <title>6.1. Criterios de evaluación.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9oj-popaf3eyu" identifierref="RES-page-mov5r9oj-popaf3eyu" isvisible="true">
+        <title>6.2. Criterios de evaluación.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9ok-ffppda58p" identifierref="RES-page-mov5r9ok-ffppda58p" isvisible="true">
+        <title>6.3. Criterios de evaluación.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9ok-lq11oon6f" identifierref="RES-page-mov5r9ok-lq11oon6f" isvisible="true">
+        <title>6.4. Criterios de evaluación.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9ol-b9qaamayt" identifierref="RES-page-mov5r9ol-b9qaamayt" isvisible="true">
+        <title>6.5. Criterios de evaluación.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9om-18qhg7e5z" identifierref="RES-page-mov5r9om-18qhg7e5z" isvisible="true">
+        <title>6.6. Criterios de evaluación.</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9om-7ogr0c0q9" identifierref="RES-page-mov5r9om-7ogr0c0q9" isvisible="true">
+        <title>7.1. Instrumentos de evaluación: Rúbrica de evaluación del alumnado</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9on-xffe8foay" identifierref="RES-page-mov5r9on-xffe8foay" isvisible="true">
+        <title>7.2. Intrumentos de evaluación: Google form - Evaluación de la unidad</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9oo-ch71mil9d" identifierref="RES-page-mov5r9oo-ch71mil9d" isvisible="true">
+        <title>8.1. Guía didáctica</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9oo-9icnztexm" identifierref="RES-page-mov5r9oo-9icnztexm" isvisible="true">
+        <title>8.2. Guía didáctica</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9op-3s3jvkbxp" identifierref="RES-page-mov5r9op-3s3jvkbxp" isvisible="true">
+        <title>8.3. Guía didáctica </title>
+      </item>
+      <item identifier="ITEM-page-mov5r9oq-yz8iomrj4" identifierref="RES-page-mov5r9oq-yz8iomrj4" isvisible="true">
+        <title>8.4. Guía didáctica</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9oq-ztffiykea" identifierref="RES-page-mov5r9oq-ztffiykea" isvisible="true">
+        <title>8.5. Guía didáctica</title>
+      </item>
+      <item identifier="ITEM-page-mov5r9or-bhgi3rf20" identifierref="RES-page-mov5r9or-bhgi3rf20" isvisible="true">
+        <title>9. Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mov5r9o2-mk8nuddxg" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9o6-3qkcu3c8b" type="webcontent" adlcp:scormtype="sco" href="html/12-presentacion-y-descripcion-del-proyecto.html">
+      <file href="html/12-presentacion-y-descripcion-del-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9o7-c91290sb4" type="webcontent" adlcp:scormtype="sco" href="html/13-presentacion-y-descripcion-del-proyecto.html">
+      <file href="html/13-presentacion-y-descripcion-del-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9o8-r10s7bbxp" type="webcontent" adlcp:scormtype="sco" href="html/2-proteccion-de-datos-personales-y-garantias-de-de.html">
+      <file href="html/2-proteccion-de-datos-personales-y-garantias-de-de.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9o9-dnp0j3os1" type="webcontent" adlcp:scormtype="sco" href="html/3-descripcion-del-proyecto-final.html">
+      <file href="html/3-descripcion-del-proyecto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9ob-4580fcr80" type="webcontent" adlcp:scormtype="sco" href="html/4-curacion-de-contenidos-para-el-profesorado-symba.html">
+      <file href="html/4-curacion-de-contenidos-para-el-profesorado-symba.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9od-6ngp72392" type="webcontent" adlcp:scormtype="sco" href="html/5-linea-temporal-o-mapa-mental.html">
+      <file href="html/5-linea-temporal-o-mapa-mental.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9of-vjg2s0g58" type="webcontent" adlcp:scormtype="sco" href="html/6-criterios-de-evaluacion.html">
+      <file href="html/6-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9oh-57x6y7yen" type="webcontent" adlcp:scormtype="sco" href="html/61-criterios-de-evaluacion.html">
+      <file href="html/61-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9oj-popaf3eyu" type="webcontent" adlcp:scormtype="sco" href="html/62-criterios-de-evaluacion.html">
+      <file href="html/62-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9ok-ffppda58p" type="webcontent" adlcp:scormtype="sco" href="html/63-criterios-de-evaluacion.html">
+      <file href="html/63-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9ok-lq11oon6f" type="webcontent" adlcp:scormtype="sco" href="html/64-criterios-de-evaluacion.html">
+      <file href="html/64-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9ol-b9qaamayt" type="webcontent" adlcp:scormtype="sco" href="html/65-criterios-de-evaluacion.html">
+      <file href="html/65-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9om-18qhg7e5z" type="webcontent" adlcp:scormtype="sco" href="html/66-criterios-de-evaluacion.html">
+      <file href="html/66-criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9om-7ogr0c0q9" type="webcontent" adlcp:scormtype="sco" href="html/71-instrumentos-de-evaluacion-rubrica-de-evaluacio.html">
+      <file href="html/71-instrumentos-de-evaluacion-rubrica-de-evaluacio.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9on-xffe8foay" type="webcontent" adlcp:scormtype="sco" href="html/72-intrumentos-de-evaluacion-google-form---evaluac.html">
+      <file href="html/72-intrumentos-de-evaluacion-google-form---evaluac.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9oo-ch71mil9d" type="webcontent" adlcp:scormtype="sco" href="html/81-guia-didactica.html">
+      <file href="html/81-guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9oo-9icnztexm" type="webcontent" adlcp:scormtype="sco" href="html/82-guia-didactica.html">
+      <file href="html/82-guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9op-3s3jvkbxp" type="webcontent" adlcp:scormtype="sco" href="html/83-guia-didactica-.html">
+      <file href="html/83-guia-didactica-.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9oq-yz8iomrj4" type="webcontent" adlcp:scormtype="sco" href="html/84-guia-didactica.html">
+      <file href="html/84-guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9oq-ztffiykea" type="webcontent" adlcp:scormtype="sco" href="html/85-guia-didactica.html">
+      <file href="html/85-guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mov5r9or-bhgi3rf20" type="webcontent" adlcp:scormtype="sco" href="html/9-creditos.html">
+      <file href="html/9-creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/1ea76919-b497-cd2a-c2b9-991d6563f76b.jpg"/>
+      <file href="content/resources/204cb6be-798e-3ada-7be9-4eefa1e0743a.jpg"/>
+      <file href="content/resources/41f4638c-6adc-0cdb-fb78-987697bac778.jpg"/>
+      <file href="content/resources/471ea4ba-8eab-3619-06af-4ddc60857906.jpg"/>
+      <file href="content/resources/4ccb87f2-e7eb-b35f-4f5d-150e681e4d98.jpg"/>
+      <file href="content/resources/5a988e6d-714f-7306-9033-2e0dc5f54bfb.png"/>
+      <file href="content/resources/60eb4549-69dd-465a-a7fb-43395d1eb3d8.jpg"/>
+      <file href="content/resources/682b92f4-ddc9-0599-7f1c-a9d9f8a5f55e.jpg"/>
+      <file href="content/resources/6ede4fdf-f599-5745-5024-b8db083cdccc.png"/>
+      <file href="content/resources/6fb6f17e-c20a-456b-4aaa-92049e887330.jpg"/>
+      <file href="content/resources/6fba20ee-2678-6e59-5d00-97697c4776c9.jpg"/>
+      <file href="content/resources/97dc05c5-9fcd-0f41-af4f-d4fcd6af8f4c.jpg"/>
+      <file href="content/resources/9a54df8e-f619-fba4-9bac-bb97fca407e3.jpg"/>
+      <file href="content/resources/9f6a5875-2daf-903c-ab78-f4d1c776b56a.jpg"/>
+      <file href="content/resources/Captura de pantalla 2026-05-05 165446.png"/>
+      <file href="content/resources/Captura de pantalla 2026-05-05 205014.png"/>
+      <file href="content/resources/Criterios de evaluación_page-0001.jpg"/>
+      <file href="content/resources/Criterios de evaluación_page-0002.jpg"/>
+      <file href="content/resources/Criterios de evaluación_page-0003.jpg"/>
+      <file href="content/resources/Criterios de evaluación_page-0004.jpg"/>
+      <file href="content/resources/Criterios de evaluación_page-0005.jpg"/>
+      <file href="content/resources/Criterios de evaluación_page-0006.jpg"/>
+      <file href="content/resources/Guía didáctica_page-0001.jpg"/>
+      <file href="content/resources/Guía didáctica_page-0002.jpg"/>
+      <file href="content/resources/Guía didáctica_page-0003.jpg"/>
+      <file href="content/resources/Guía didáctica_page-0004.jpg"/>
+      <file href="content/resources/Guía didáctica_page-0005.jpg"/>
+      <file href="content/resources/Guía didáctica_page-0006.jpg"/>
+      <file href="content/resources/ImageToStl.com_merged-document.jpg"/>
+      <file href="content/resources/PROYECTO FINAL.png"/>
+      <file href="content/resources/Project description_page-0001.jpg"/>
+      <file href="content/resources/Project description_page-0002.jpg"/>
+      <file href="content/resources/Project description_page-0003.jpg"/>
+      <file href="content/resources/Rúbrica de evaluación_page-0001.jpg"/>
+      <file href="content/resources/b250ff5c-3597-c3a7-ba63-a1ffbde6c591.png"/>
+      <file href="content/resources/b45e4c2c-463e-c8bd-a00c-fd055272bff2.jpg"/>
+      <file href="content/resources/cafb5892-8c1b-ee51-4ec6-aea7c555b0a9.jpg"/>
+      <file href="content/resources/cfcff798-ac13-dc49-39cd-30fccfc10754.jpg"/>
+      <file href="content/resources/e2f68d64-b885-9d0a-bcae-9c0054a5d471.jpg"/>
+      <file href="content/resources/f9186469-2d3c-cd73-cb7d-ca65e2cfe3eb.jpg"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

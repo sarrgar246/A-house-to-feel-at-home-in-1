@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+  <general uniqueElementName="general">
+    <identifier>
+      <catalog uniqueElementName="catalog">none</catalog>
+      <entry uniqueElementName="entry">ODE-mov6ayzroig9t</entry>
+    </identifier>
+    <title>
+      <string language="en">A house to feel at home in</string>
+    </title>
+    <language>en</language>
+    <description>
+      <string language="en">La finalidad de este proyecto es que el alumnado aprenda y amplíe su vocabulario sobre el tema de la vivienda para poder resolver cualquier situación comunicativa que se dé en el día a día con respecto a dicho tema cuando se trate de alquilar, comprar o vender una vivienda.
+
+Por lo tanto, el alumnado deberá “reproducir” una situación real en clase mediante una actividad de “role play” en la que habrá agentes inmobiliarios y clientes interaccionando y conversando utilizando los contenidos trabajados y aprendidos en la unidad.
+
+</string>
+    </description>
+    <aggregationLevel uniqueElementName="aggregationLevel">
+      <source uniqueElementName="source">LOM-ESv1.0</source>
+      <value uniqueElementName="value">2</value>
+    </aggregationLevel>
+  </general>
+  <lifeCycle>
+    <contribute>
+      <role uniqueElementName="role">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">author</value>
+      </role>
+      <entity>BEGIN:VCARD VERSION:3.0 FN:Sara Arranz García EMAIL;TYPE=INTERNET: ORG: END:VCARD</entity>
+      <date>
+        <dateTime uniqueElementName="dateTime">2026-05-07T09:37:08.00+02:00</dateTime>
+        <description>
+          <string language="en">Metadata creation date</string>
+        </description>
+      </date>
+    </contribute>
+  </lifeCycle>
+  <metaMetadata uniqueElementName="metaMetadata">
+    <contribute>
+      <role uniqueElementName="role">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">creator</value>
+      </role>
+      <entity>BEGIN:VCARD VERSION:3.0 FN:Sara Arranz García EMAIL;TYPE=INTERNET: ORG: END:VCARD</entity>
+      <date>
+        <dateTime uniqueElementName="dateTime">2026-05-07T09:37:08.00+02:00</dateTime>
+        <description>
+          <string language="en">Metadata creation date</string>
+        </description>
+      </date>
+    </contribute>
+    <metadataSchema>LOM-ESv1.0</metadataSchema>
+    <language>en</language>
+  </metaMetadata>
+  <technical uniqueElementName="technical">
+    <otherPlatformRequirements>
+      <string language="en">editor: eXe Learning</string>
+    </otherPlatformRequirements>
+  </technical>
+  <educational>
+    <language>en</language>
+  </educational>
+  <rights uniqueElementName="rights">
+    <copyrightAndOtherRestrictions uniqueElementName="copyrightAndOtherRestrictions">
+      <source uniqueElementName="source">LOM-ESv1.0</source>
+      <value uniqueElementName="value">creative commons: attribution - share alike 4.0</value>
+    </copyrightAndOtherRestrictions>
+    <access uniqueElementName="access">
+      <accessType uniqueElementName="accessType">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">universal</value>
+      </accessType>
+      <description>
+        <string language="en">Default</string>
+      </description>
+    </access>
+  </rights>
+</lom>
